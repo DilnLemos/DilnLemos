@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hola soy Dilan Lemos
+Estudiante de Tercer semestre en Univalle, Colombia
 
 <!--
 **DilnLemos/DilnLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
