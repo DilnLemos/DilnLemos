@@ -1,5 +1,26 @@
-Hola, Soy Dilan Lemos. **Estudiante** de **Ingeniería de Sistemas** en la **Universidad del Valle**, Colombia.
+# 👋 Hola, soy **Dilan Lemos**
 
-Entreno **CrossFit [](https://emojipedia.org/es/hombre-levantando-pesas) 🏋️‍♂️**
-Me gustan los **Videojuegos [](https://emojiterra.com/es/mando-de-videoconsola/)🎮**
-Mi lenguaje referido es **Python [](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiJpb79-NCEAxXkSTABHWi6CAAQFnoECCsQAQ&url=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fhow-to-print-emojis-using-python-2e4f93443f7e&usg=AOvVaw0OYV4GfRRH7BwmIEk6NCzV&opi=89978449)🐍**
+🎓 Soy estudiante de **Ingeniería de Sistemas** en la **Universidad del Valle**, Colombia.  
+💻 Apasionado por la tecnología y la programación, con un fuerte interés en **Python** 🐍.
+
+---
+
+## 💡 Un poco sobre mí
+
+- 🏋️‍♂️ Me encanta entrenar **CrossFit**.
+- 🎮 Disfruto jugar **videojuegos** en mi tiempo libre.
+- 🧩 Resolver **sudokus** es una de mis actividades favoritas para ejercitar la mentegolia.
+- 🇬🇧 Manejo **decentemente del inglés**, tanto escrito como hablado.
+- 💬 Dispuesto a aprender y compartir conocimiento de lo que me gusta.
+
+---
+
+## 🚀 Lenguaje Favorito
+
+- Python — simple. 🐍
+
+---
+
+📫 **Contacto Maybe**  
+**Diln.lemos@gmail.com**
+
