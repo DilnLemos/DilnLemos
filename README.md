@@ -18,9 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=dilnlemos&label=Profile%20views&color=0e75b6&style=flat" alt="dilnlemos" />
 </p>
 
-<!-- 🌈 (5) AESTHETIC DIVIDER -->
+<!-- 🌈 (5) AESTHETIC DIVIDER (now red only) -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x5/FF0000/FF0000">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="filter: hue-rotate(330deg) saturate(500%);">
 </p>
 
 <p align="center">
@@ -43,46 +43,37 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,js)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,java,js" />
 
 </p>
 
 <h3 align="center">Frontend Development:</h3>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 </p>
 
 <h3 align="center">Database:</h3>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=postgres" />
 
 </p>
 
 <h3 align="center">DevOps:</h3>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,docker)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=bash,docker" />
 
 </p>
 
 <h3 align="center">Software:</h3>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=discord,github,md,notion,vscode,gmail,figma)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=discord,github,md,notion,vscode,gmail,figma" />
 
 </p>
 
-<h3 align="center">Others:</h3>
-<p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=git,windows,debian)](https://skillicons.dev)
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dilnlemos&show_icons=true&locale=en" alt="dilnlemos" />
-</p>
+<h3 align="center">Ot
