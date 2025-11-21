@@ -1,9 +1,7 @@
 <h1 align="center">I'm DilnLemos</h1>
-<h3 align="center">I’m Dilan Lemos, a Systems Engineering student at Universidad del Valle. I'm passionate about technology—especially development with Python—and I enjoy learning continuously. In my free time, I train CrossFit and play video games, lastly I have a good command of English and I'm always willing to share knowledge and improve my skills.</h3>
+<h3 align="center">A Systems Engineering student at Universidad del Valle. I'm passionate about technology—especially development with Python—and I enjoy learning continuously. In my free time, I train CrossFit and play video games, lastly I have a good command of English and I'm always willing to share knowledge and improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilnlemos&label=Profile%20views&color=0e75b6&style=flat" alt="dilnlemos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilnlemos" alt="dilnlemos" /></a> </p>
 
 - 🌱 I’m currently learning **FastAPI, HTML, CSS**
 
