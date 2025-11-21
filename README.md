@@ -76,4 +76,13 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 
 </p>
 
-<h3 align="center">Ot
+<h3 align="center">Others:</h3>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,windows,debian" />
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dilnlemos&show_icons=true&locale=en" alt="dilnlemos" />
+</p>
