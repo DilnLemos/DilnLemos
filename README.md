@@ -26,7 +26,7 @@
 <div style="text-align: justify; max-width: 700px; margin: auto;">
 I'm a Systems Engineering student at Universidad del Valle. I'm passionate about technology—especially development with Python—and I enjoy learning continuously. In my free time, I train CrossFit and play video games, lastly I have a good command of English and I'm always willing to share knowledge and improve my skills.
 </div>
-
+<br>
 
 <p align="center">🌱 I’m currently learning: A lot of things!</p>
 <p align="center">📫 How to reach me: diln.lemos@gmail.com</p>
