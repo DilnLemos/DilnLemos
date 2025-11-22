@@ -85,9 +85,8 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dilnlemas/dilnlemas/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/<DilnLemos>/<DilnLemos>/main/assets/contributions.svg" alt="contributions chart" />
 </p>
-
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dilnlemos&show_icons=true&locale=en" alt="dilnlemos" />
