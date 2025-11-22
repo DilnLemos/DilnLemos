@@ -74,10 +74,7 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 
 ---
 
-<h3 align="center">Contribution Activity</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dilnlemos/dilnlemos/main/assets/contributions.svg" alt="contributions chart" />
-</p>
+<img src= "https://raw.githubusercontent.com/dilnlemos/dilnlemos/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dilnlemos&show_icons=true&locale=en" alt="dilnlemos" />
