@@ -85,7 +85,7 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<DilnLemos>/<DilnLemos>/main/assets/contributions.svg" alt="contributions chart" />
+  <img src="https://raw.githubusercontent.com/<dilnlemos>/<dilnlemos>/main/assets/contributions.svg" alt="contributions chart" />
 </p>
 
 <p align="center">
