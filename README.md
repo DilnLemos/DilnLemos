@@ -73,7 +73,7 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 </p>
 
 ---
-
+<p align="center">
 <img src= "https://raw.githubusercontent.com/dilnlemos/dilnlemos/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 <p align="center">
