@@ -44,48 +44,39 @@ I'm a Systems Engineering student at Universidad del Valle. I'm passionate about
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=py,fastapi,java,js" />
-
 </p>
 
 <h3 align="center">Frontend Development:</h3>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css" />
-
 </p>
 
 <h3 align="center">Database:</h3>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=postgres" />
-
 </p>
 
 <h3 align="center">DevOps:</h3>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=bash,docker" />
-
 </p>
 
 <h3 align="center">Software:</h3>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=discord,github,md,notion,vscode,gmail,figma" />
-
 </p>
 
 <h3 align="center">Others:</h3>
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,windows,debian" />
-
 </p>
 
+---
+
+<h3 align="center">Contribution Activity</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<dilnlemos>/<dilnlemos>/main/assets/contributions.svg" alt="contributions chart" />
+  <img src="https://raw.githubusercontent.com/dilnlemos/dilnlemos/main/assets/contributions.svg" alt="contributions chart" />
 </p>
 
 <p align="center">
