@@ -1,0 +1,35 @@
+name: Generate Contributions Chart & Commit
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # opcional: se ejecuta diariamente
+  workflow_dispatch:          # permite ejecución manual
+
+permissions:
+  contents: write             # permite push con GITHUB_TOKEN
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate contributions SVG
+        uses: sallar/github-contributions-chart@v1
+        with:
+          username: ${{ github.actor }}     # o pon tu usuario 'dilnlemos' explícito
+          output_file: contributions.svg
+          # opcionales: theme, colors, width, height según la action
+
+      - name: Move SVG to assets folder
+        run: |
+          mkdir -p assets
+          mv contributions.svg assets/contributions.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions.svg
+          git commit -m "chore: update contributions chart" || echo "no changes to commit"
+          git push origin HEAD:main
